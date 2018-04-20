@@ -1,5 +1,4 @@
 program sd
-use f95_precision  ! provide the dp and sp kind of real
 use mob ! subroutine grmobmxcalc
 use lub ! subroutine lubcalc
 use fts ! subroutine ftscalc

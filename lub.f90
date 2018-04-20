@@ -1,6 +1,5 @@
 module lub
 use prutil
-use f95_precision
 use in_out
 
 contains 

@@ -3,7 +3,6 @@
 
 module mob
 use prutil
-use f95_precision
 
 contains
 subroutine grmobmxcalc(ntotal,p_pos,grmobmx)

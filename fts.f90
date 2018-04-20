@@ -1,7 +1,6 @@
 module fts
 ! use the intel imkl blas & lapack lib for fortran 95
 use prutil
-use f95_precision
 
 contains 
 subroutine remxcalc(ntotal,grmobmx,rfu,rfe,rsu,rse)

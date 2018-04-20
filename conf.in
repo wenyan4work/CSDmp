@@ -1,7 +1,7 @@
 timestepsize 	= 
 0.001
 totaltime	=	
-0.1
+10.0
 trajinterval	=
 10
 background Uvector	=	
