@@ -1,0 +1,12 @@
+timestepsize 	= 
+0.001
+totaltime	=	
+0.1
+trajinterval	=
+10
+background Uvector	=	
+0.0	0.0	0.0
+background Omegavector	=	
+0.0	0.0	0.0
+background Einf11,Einf12,Einf13,Einf22,Einf23	=	
+0.0	0.0	0.0	0.0	0.0
